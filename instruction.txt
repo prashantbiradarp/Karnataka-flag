@@ -1,2 +1,4 @@
 please click on image_create1.exe and image name:choose your image path with image format and click enter .
-your image is converted karnataka flag color thank you.
+your image is converted karnataka flag color
+your image created in same folder like index.jpg check this
+Thank you
